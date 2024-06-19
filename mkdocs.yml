@@ -18,7 +18,7 @@ nav:
   - 'api/index.md'
 
 extra:
-  generator: false
+  generator: true
 
 markdown_extensions:
 - admonition
